@@ -174,35 +174,35 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		593FD62120E54EBA00CF8862 /* Evolution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Evolution.swift; path = Classes/Evolution.swift; sourceTree = "<group>"; };
-		593FD62220E54EBB00CF8862 /* Locations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Locations.swift; path = Classes/Locations.swift; sourceTree = "<group>"; };
-		593FD62320E54EBB00CF8862 /* Pokemon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Pokemon.swift; path = Classes/Pokemon.swift; sourceTree = "<group>"; };
-		593FD62420E54EBB00CF8862 /* Moves.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Moves.swift; path = Classes/Moves.swift; sourceTree = "<group>"; };
-		593FD62520E54EBB00CF8862 /* Encounters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Encounters.swift; path = Classes/Encounters.swift; sourceTree = "<group>"; };
-		593FD62620E54EBB00CF8862 /* Games.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Games.swift; path = Classes/Games.swift; sourceTree = "<group>"; };
-		593FD62720E54EBB00CF8862 /* Items.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Items.swift; path = Classes/Items.swift; sourceTree = "<group>"; };
-		593FD62820E54EBB00CF8862 /* Contests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Contests.swift; path = Classes/Contests.swift; sourceTree = "<group>"; };
-		593FD62920E54EBB00CF8862 /* Machines.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Machines.swift; path = Classes/Machines.swift; sourceTree = "<group>"; };
-		593FD65020E57BD400CF8862 /* Utilities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Utilities.swift; path = Classes/Utilities.swift; sourceTree = "<group>"; };
-		599FC83C20E27F42003FD793 /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Network.swift; path = Network/Network.swift; sourceTree = "<group>"; };
-		599FC83D20E27F42003FD793 /* Pagination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Pagination.swift; path = Network/Pagination.swift; sourceTree = "<group>"; };
-		599FC83E20E27F42003FD793 /* HTTPWebService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = HTTPWebService.swift; path = Network/HTTPWebService.swift; sourceTree = "<group>"; };
-		599FC83F20E27F42003FD793 /* HTTPHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = HTTPHeader.swift; path = Network/HTTPHeader.swift; sourceTree = "<group>"; };
-		599FC84020E27F42003FD793 /* Result.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Result.swift; path = Network/Result.swift; sourceTree = "<group>"; };
-		59B116192148BDFF00ABE0C4 /* Resource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Resource.swift; path = Classes/Resource.swift; sourceTree = "<group>"; };
-		59DA03B020E27F7A00D98471 /* URL+Query.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "URL+Query.swift"; path = "Utilities/URL+Query.swift"; sourceTree = "<group>"; };
-		59DA03B120E27F7A00D98471 /* SelfDecodable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SelfDecodable.swift; path = Utilities/SelfDecodable.swift; sourceTree = "<group>"; };
-		59DA03B220E27F7A00D98471 /* Decodable+Decode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Decodable+Decode.swift"; path = "Utilities/Decodable+Decode.swift"; sourceTree = "<group>"; };
-		59DA03D320E27FD300D98471 /* HTTPError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HTTPError.swift; path = Network/HTTPError.swift; sourceTree = "<group>"; };
-		59DA03DB20E2909E00D98471 /* Data+JSONPretty.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Data+JSONPretty.swift"; path = "Utilities/Data+JSONPretty.swift"; sourceTree = "<group>"; };
-		59DA03E220E3681D00D98471 /* Berries.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Berries.swift; path = Classes/Berries.swift; sourceTree = "<group>"; };
+		593FD62120E54EBA00CF8862 /* Evolution.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Evolution.swift; sourceTree = "<group>"; };
+		593FD62220E54EBB00CF8862 /* Locations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Locations.swift; sourceTree = "<group>"; };
+		593FD62320E54EBB00CF8862 /* Pokemon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
+		593FD62420E54EBB00CF8862 /* Moves.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Moves.swift; sourceTree = "<group>"; };
+		593FD62520E54EBB00CF8862 /* Encounters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Encounters.swift; sourceTree = "<group>"; };
+		593FD62620E54EBB00CF8862 /* Games.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Games.swift; sourceTree = "<group>"; };
+		593FD62720E54EBB00CF8862 /* Items.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Items.swift; sourceTree = "<group>"; };
+		593FD62820E54EBB00CF8862 /* Contests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Contests.swift; sourceTree = "<group>"; };
+		593FD62920E54EBB00CF8862 /* Machines.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Machines.swift; sourceTree = "<group>"; };
+		593FD65020E57BD400CF8862 /* Utilities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
+		599FC83C20E27F42003FD793 /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
+		599FC83D20E27F42003FD793 /* Pagination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pagination.swift; sourceTree = "<group>"; };
+		599FC83E20E27F42003FD793 /* HTTPWebService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPWebService.swift; sourceTree = "<group>"; };
+		599FC83F20E27F42003FD793 /* HTTPHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPHeader.swift; sourceTree = "<group>"; };
+		599FC84020E27F42003FD793 /* Result.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Result.swift; sourceTree = "<group>"; };
+		59B116192148BDFF00ABE0C4 /* Resource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Resource.swift; sourceTree = "<group>"; };
+		59DA03B020E27F7A00D98471 /* URL+Query.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "URL+Query.swift"; sourceTree = "<group>"; };
+		59DA03B120E27F7A00D98471 /* SelfDecodable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelfDecodable.swift; sourceTree = "<group>"; };
+		59DA03B220E27F7A00D98471 /* Decodable+Decode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Decodable+Decode.swift"; sourceTree = "<group>"; };
+		59DA03D320E27FD300D98471 /* HTTPError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HTTPError.swift; sourceTree = "<group>"; };
+		59DA03DB20E2909E00D98471 /* Data+JSONPretty.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Data+JSONPretty.swift"; sourceTree = "<group>"; };
+		59DA03E220E3681D00D98471 /* Berries.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Berries.swift; sourceTree = "<group>"; };
 		74B038031D56714D00F48B92 /* PokemonAPI.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PokemonAPI.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		74B038061D56714D00F48B92 /* PokemonAPI.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PokemonAPI.h; sourceTree = "<group>"; };
 		74B038081D56714D00F48B92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		74B0380D1D56714D00F48B92 /* PokemonAPI iOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "PokemonAPI iOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		74B038121D56714D00F48B92 /* PokemonAPITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = PokemonAPITests.swift; path = PokemonAPITests/PokemonAPITests.swift; sourceTree = "<group>"; };
 		74B038141D56714D00F48B92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		74B0381F1D5672B000F48B92 /* PokemonAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PokemonAPI.swift; path = Classes/PokemonAPI.swift; sourceTree = "<group>"; };
+		74B0381F1D5672B000F48B92 /* PokemonAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokemonAPI.swift; sourceTree = "<group>"; };
 		74B038271D5677FE00F48B92 /* PokemonAPI.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PokemonAPI.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		74B038291D5677FE00F48B92 /* PokemonAPI watchOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "PokemonAPI watchOS.h"; sourceTree = "<group>"; };
 		74B0382B1D5677FE00F48B92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -282,6 +282,7 @@
 				59DA03B020E27F7A00D98471 /* URL+Query.swift */,
 			);
 			name = Utilities;
+			path = Sources/PokemonAPI/Utilities;
 			sourceTree = "<group>";
 		};
 		599FC83B20E27F0B003FD793 /* Network */ = {
@@ -295,6 +296,7 @@
 				599FC84020E27F42003FD793 /* Result.swift */,
 			);
 			name = Network;
+			path = Sources/PokemonAPI/Network;
 			sourceTree = "<group>";
 		};
 		74B037F91D56714D00F48B92 = {
@@ -365,6 +367,7 @@
 				593FD65020E57BD400CF8862 /* Utilities.swift */,
 			);
 			name = Classes;
+			path = Sources/PokemonAPI/Classes;
 			sourceTree = "<group>";
 		};
 		74B038281D5677FE00F48B92 /* PokemonAPI watchOS */ = {
